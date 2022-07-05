@@ -1,6 +1,6 @@
 <template>
     <div>
-        <img src="https://picsum.photos/600" alt="">
+        <img src="https://picsum.photos/800/400" alt="">
     </div>
 </template>
 
